@@ -6,4 +6,4 @@ def loop_message_n_times
 
 def output_array
 
-return_string_array
+def return_string_array
